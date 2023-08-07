@@ -1,0 +1,22 @@
+body {
+    background-color: #bfd5db;
+    padding-top: 200px;
+}
+
+#qrCard {
+    border-radius: 5%;
+    background-color: white;
+}
+
+#qrImage {
+    padding-top: 10px;
+    border-radius: 7%;
+}
+
+#firstText {
+    font-weight: 900;
+}
+
+#secondText {
+    font-size: 13px;
+}
